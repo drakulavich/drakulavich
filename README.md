@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am [Anton Yakutovich](https://www.linkedin.com/in/antonyakutovich/), QA Lead, public speaker and [Software Testing Meetup organizer](https://www.meetup.com/ministry-of-testing-abu-dhabi/) based in Abu Dhabi, UAE.
+
+📫 Reach me out at drakulavich@gmail.com
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=drakulavich)
